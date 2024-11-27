@@ -17,7 +17,7 @@ App uses a single file with bootstrap 4 (CDN), JS, and JQuery(CDN) to make a sto
 
 ### Want to install the APK?
 
-<a href="path-to-release-exe">
+<a href="https://github.com/legriffalo/Timer-android-capacitor-app/releases/tag/v0.0">
   <img src="https://img.shields.io/badge/Download-Nordic_Keyboard_Converter-blue?style=for-the-badge&logo=windows"/>
 </a>
 
